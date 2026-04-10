@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ScreenShotRestrictionApp
 //
-//  Created by cirrius on 07/04/26.
+//  Created by Prathamesh on 07/04/26.
 //
 
 import UIKit
