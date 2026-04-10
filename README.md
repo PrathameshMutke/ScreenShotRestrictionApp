@@ -1,8 +1,14 @@
 ScreenShot Restriction App
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2026-04-10 at 11 42 00" src="https://github.com/user-attachments/assets/f21f1165-1082-494b-9957-3ade5f080153" />
+<p align="center">
+  <b>Normal Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Protected Screen</b>
+</p>
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2026-04-10 at 11 43 15" src="https://github.com/user-attachments/assets/3476593b-c665-42cc-b692-397889784bd5" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f21f1165-1082-494b-9957-3ade5f080153" width="45%" />
+  <img src="https://github.com/user-attachments/assets/3476593b-c665-42cc-b692-397889784bd5" width="45%" />
+</p>
 
 iOS Screen Recording & Screenshot Restriction App
 
