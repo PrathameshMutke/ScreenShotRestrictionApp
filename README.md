@@ -1,3 +1,9 @@
+ScreenShot Restriction App
+
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2026-04-10 at 11 42 00" src="https://github.com/user-attachments/assets/f21f1165-1082-494b-9957-3ade5f080153" />
+
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2026-04-10 at 11 43 15" src="https://github.com/user-attachments/assets/3476593b-c665-42cc-b692-397889784bd5" />
+
 iOS Screen Recording & Screenshot Restriction App
 
 This is a simple iOS project that helps keep your app's content private. It's designed to stop people from easily saving or sharing sensitive information by hiding specific parts of the screen during a screenshot or recording.
