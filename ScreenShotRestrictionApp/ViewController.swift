@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+//    private let protectionManager = ScreenshotRestrictionManager()
 
     override func viewDidLoad() {
         super.viewDidLoad()
